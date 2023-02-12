@@ -13,7 +13,7 @@ $$-2^{31}\le rev\cdot 10+digit \le 2^{31}-1$$
 但是题目要求不允许使用64位整数，因此不能直接按照上诉式子计算。
 考虑$x>0$的情况，记$INT\_MAX=2^{31}-1=2147483647$，由于
 $$\begin{align}
-INT\_MAX& = \lfloor \frac{INT\_MAX}{10} \rfloor \cdot 10 + (INT\_MAX\ mod\ 10)\\
+INT\_MAX& = \lfloor \frac{INT\_MAX}{10} \rfloor \cdot 10 + (INT\_MAX\ mod\ 10) \\
 &=\lfloor \frac{INT\_MAX}{10} \rfloor \cdot 10 + 7
 \end{align}
 $$
