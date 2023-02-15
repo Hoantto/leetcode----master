@@ -75,3 +75,4 @@ class Solution:
 **参考**
 - [python local variable to global](https://sabe.io/blog/python-local-variable-referenced-before-assignment#:~:text=In%20this%20post%2C%20we%20learned,a%20value%20before%20using%20it.)
 - [Python not defined recursive function?](https://stackoverflow.com/questions/36488439/python-not-defined-recursive-function)
+- [链表反转递归实现](https://xiaoqingdu.github.io/2021/05/31/%E9%80%92%E5%BD%92%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/)
