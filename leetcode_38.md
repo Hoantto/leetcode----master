@@ -92,3 +92,6 @@ class Solution:
             init = pair2Seq(res)
         return init
 ```
+
+**参考**
+- [C++ to_string api](https://cplusplus.com/reference/string/to_string/)
