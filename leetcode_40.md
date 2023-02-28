@@ -68,3 +68,9 @@ class Solution:
         return output
 
 ```
+
+**参考**
+- [python Understanding slicing](https://stackoverflow.com/questions/509211/understanding-slicing)
+- [Python Dictionary items() Method](https://www.w3schools.com/python/ref_dictionary_items.asp)
+- [collections — Container datatypes](https://docs.python.org/3/library/collections.html)
+- [Python List/Array Methods](https://www.w3schools.com/python/python_ref_list.asp)
