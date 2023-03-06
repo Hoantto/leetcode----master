@@ -73,3 +73,6 @@ class Solution:
             ret += [chess_str]
         return ret
 ```
+
+**参考**
+- [How to deep copy a list in python?](https://stackoverflow.com/questions/17873384/how-to-deep-copy-a-list)
