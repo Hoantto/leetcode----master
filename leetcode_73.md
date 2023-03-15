@@ -61,3 +61,4 @@ class Solution:
 
 **参考**
 - [Python any() Function](https://www.w3schools.com/python/ref_func_any.asp)
+- [How do I change column of a 2d list in Python without nuumpy?](https://stackoverflow.com/questions/47985788/how-do-i-change-column-of-a-2d-list-in-python)
